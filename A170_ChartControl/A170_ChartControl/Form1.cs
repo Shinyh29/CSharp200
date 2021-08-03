@@ -16,13 +16,13 @@ namespace A170_ChartControl
         {
             Random r = new Random();
             chart1.Titles.Add("005930 TimeSerieal");
-            for (int i = 0; i < 10; i++)
+            for (int i = 0; i < 100; i++)
             {
-                chart1.Series["Series1"].Points.Add(r.Next(100));
+                chart1.Series["Series1"].Points.Add( r.NextDouble() + 0.5);
             }
             chart1.Series["Series1"].LegendText = "px_close";
             chart1.Series["Series1"].ChartType = SeriesChartType.Line;
-            chart1.Series["Series1"].Label = "Hello";
+            // chart1.Series["Series1"].Label = "Hello";
 
             Random r2 = new Random();
 
@@ -33,7 +33,7 @@ namespace A170_ChartControl
                 chart2.Series["Series2"].Points.Add(r2.Next(10));
             }
             chart2.Series["Series2"].LegendText = "px_close";
-            chart2.Series["Series2"].ChartType = SeriesChartType.Line;
+            chart2.Series["Series2"].ChartType = SeriesChartType.Column;
             chart2.Series["Series2"].Label = "HI2";
         }
     }
