@@ -10,7 +10,8 @@ namespace A139_RgbScrollBar
     {
       InitializeComponent();
 
-      this.BackColor = Color.LightSteelBlue;
+            this.BackColor = Color.LightSteelBlue;
+      //this.BackColor = Color.LightSteelBlue;
       panel1.BackColor = Color.FromArgb(0, 0, 0);
       txtR.Text = 0.ToString();
       txtG.Text = 0.ToString();
@@ -24,19 +25,22 @@ namespace A139_RgbScrollBar
     {
       txtR.Text = scrR.Value.ToString();
       panel1.BackColor = Color.FromArgb(scrR.Value, scrG.Value, scrB.Value);
-    }
+            panel2.BackColor = Color.FromArgb(scrB.Value / 2, scrG.Value / 2, scrB.Value / 2);
+        }
 
     private void scrG_Scroll(object sender, ScrollEventArgs e)
     {
       txtG.Text = scrG.Value.ToString();
       panel1.BackColor = Color.FromArgb(scrR.Value, scrG.Value, scrB.Value);
-    }
+            panel2.BackColor = Color.FromArgb(scrB.Value / 2, scrG.Value / 2, scrB.Value / 2);
+        }
 
     private void scrB_Scroll(object sender, ScrollEventArgs e)
     {
       txtB.Text = scrB.Value.ToString();
       panel1.BackColor = Color.FromArgb(scrR.Value, scrG.Value, scrB.Value);
-    }
+            panel2.BackColor = Color.FromArgb(scrB.Value / 2, scrG.Value / 2, scrB.Value / 2);
+        }
 
     private void txtR_TextChanged(object sender, EventArgs e)
     {
@@ -44,7 +48,8 @@ namespace A139_RgbScrollBar
       {
         scrR.Value = int.Parse(txtR.Text);
         panel1.BackColor = Color.FromArgb(scrR.Value, scrG.Value, scrB.Value);
-      }
+        panel2.BackColor = Color.FromArgb(scrB.Value / 2, scrG.Value / 2, scrB.Value / 2);
+            }
     }
 
     private void txtG_TextChanged(object sender, EventArgs e)
@@ -53,6 +58,7 @@ namespace A139_RgbScrollBar
       {
         scrG.Value = int.Parse(txtG.Text);
         panel1.BackColor = Color.FromArgb(scrR.Value, scrG.Value, scrB.Value);
+        panel2.BackColor = Color.FromArgb(scrB.Value / 2, scrG.Value / 2, scrB.Value / 2);
       }
     }
 
@@ -62,6 +68,7 @@ namespace A139_RgbScrollBar
       {
         scrB.Value = int.Parse(txtB.Text);
         panel1.BackColor = Color.FromArgb(scrR.Value, scrG.Value, scrB.Value);
+         panel2.BackColor = Color.FromArgb(scrB.Value / 2, scrG.Value / 2, scrB.Value / 2);
       }
     }
   }

@@ -1,0 +1,9 @@
+C:\vscshrap200\CSharp200\A140_ListBox\A140_ListBox\bin\Debug\A114_ListBox.exe.config
+C:\vscshrap200\CSharp200\A140_ListBox\A140_ListBox\bin\Debug\A114_ListBox.exe
+C:\vscshrap200\CSharp200\A140_ListBox\A140_ListBox\bin\Debug\A114_ListBox.pdb
+C:\vscshrap200\CSharp200\A140_ListBox\A140_ListBox\obj\Debug\A140_ListBox.Form1.resources
+C:\vscshrap200\CSharp200\A140_ListBox\A140_ListBox\obj\Debug\A114_ListBox.Properties.Resources.resources
+C:\vscshrap200\CSharp200\A140_ListBox\A140_ListBox\obj\Debug\A140_ListBox.csproj.GenerateResource.cache
+C:\vscshrap200\CSharp200\A140_ListBox\A140_ListBox\obj\Debug\A140_ListBox.csproj.CoreCompileInputs.cache
+C:\vscshrap200\CSharp200\A140_ListBox\A140_ListBox\obj\Debug\A114_ListBox.exe
+C:\vscshrap200\CSharp200\A140_ListBox\A140_ListBox\obj\Debug\A114_ListBox.pdb

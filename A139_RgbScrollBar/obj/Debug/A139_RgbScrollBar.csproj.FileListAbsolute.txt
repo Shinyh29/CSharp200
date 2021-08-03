@@ -1,0 +1,10 @@
+C:\vscshrap200\CSharp200\A139_RgbScrollBar\bin\Debug\A112_RgbScrollBar.exe.config
+C:\vscshrap200\CSharp200\A139_RgbScrollBar\bin\Debug\A112_RgbScrollBar.exe
+C:\vscshrap200\CSharp200\A139_RgbScrollBar\bin\Debug\A112_RgbScrollBar.pdb
+C:\vscshrap200\CSharp200\A139_RgbScrollBar\obj\Debug\A139_RgbScrollBar.csproj.AssemblyReference.cache
+C:\vscshrap200\CSharp200\A139_RgbScrollBar\obj\Debug\A139_RgbScrollBar.Form1.resources
+C:\vscshrap200\CSharp200\A139_RgbScrollBar\obj\Debug\A112_RgbScrollBar.Properties.Resources.resources
+C:\vscshrap200\CSharp200\A139_RgbScrollBar\obj\Debug\A139_RgbScrollBar.csproj.GenerateResource.cache
+C:\vscshrap200\CSharp200\A139_RgbScrollBar\obj\Debug\A139_RgbScrollBar.csproj.CoreCompileInputs.cache
+C:\vscshrap200\CSharp200\A139_RgbScrollBar\obj\Debug\A112_RgbScrollBar.exe
+C:\vscshrap200\CSharp200\A139_RgbScrollBar\obj\Debug\A112_RgbScrollBar.pdb

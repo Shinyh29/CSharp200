@@ -1,0 +1,10 @@
+C:\vscshrap200\CSharp200\A141_ComboBox\A141_ComboBox\bin\Debug\A115_ComboBox.exe.config
+C:\vscshrap200\CSharp200\A141_ComboBox\A141_ComboBox\bin\Debug\A115_ComboBox.exe
+C:\vscshrap200\CSharp200\A141_ComboBox\A141_ComboBox\bin\Debug\A115_ComboBox.pdb
+C:\vscshrap200\CSharp200\A141_ComboBox\A141_ComboBox\obj\Debug\A141_ComboBox.Form1.resources
+C:\vscshrap200\CSharp200\A141_ComboBox\A141_ComboBox\obj\Debug\A115_ComboBox.Properties.Resources.resources
+C:\vscshrap200\CSharp200\A141_ComboBox\A141_ComboBox\obj\Debug\A141_ComboBox.csproj.GenerateResource.cache
+C:\vscshrap200\CSharp200\A141_ComboBox\A141_ComboBox\obj\Debug\A141_ComboBox.csproj.CoreCompileInputs.cache
+C:\vscshrap200\CSharp200\A141_ComboBox\A141_ComboBox\obj\Debug\A115_ComboBox.exe
+C:\vscshrap200\CSharp200\A141_ComboBox\A141_ComboBox\obj\Debug\A115_ComboBox.pdb
+C:\vscshrap200\CSharp200\A141_ComboBox\A141_ComboBox\obj\Debug\A141_ComboBox.csproj.AssemblyReference.cache

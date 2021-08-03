@@ -12,22 +12,24 @@ namespace A148_TrackBarNProgressBar
 {
   public partial class Form1 : Form
   {
-    Timer timer1 = new Timer(); 
+        //Timer timer1 = new Timer(); 
+        Timer timer1 = new Timer();
 
     public Form1()
     {
       InitializeComponent();
 
       //this.BackColor = Color.White;
-      timer1.Interval = 100;  // 0.1초
-      timer1.Tick += Timer1_Tick;
-
+      // timer1.Interval = 100;  // 0.1초
+            timer1.Interval = 10; // 0.01sec
+      //timer1.Tick += Timer1_Tick;
+            timer1.Tick += Timer2_Tick;
       trackBar1.Minimum = 0;
-      trackBar1.Maximum = 100;
+      trackBar1.Maximum = 110; // 이걸로 구간을 등분해서 하나씩 칠함
       trackBar1.Value = 0;
 
       progressBar1.Minimum = 0;
-      progressBar1.Maximum = 100;
+      progressBar1.Maximum = 110;
       progressBar1.Value = 0;
     }
 
@@ -45,10 +47,36 @@ namespace A148_TrackBarNProgressBar
         timer1.Stop();
       }
     }
+    private void Timer2_Tick(object sender , EventArgs e)
+        {
+            if (trackBar1.Value < 110)
+            {
+                trackBar1.Value++;
+                progressBar1.Value++;
+                lblTrack.Text = trackBar1.Value.ToString() + "HelloWorld";
+                lblProgress.Text = progressBar1.Value.ToString() + "Hi World";
+            }
+            else
+            {
+                timer1.Stop();
+            }
+        }
+
+
 
     private void button1_Click(object sender, EventArgs e)
     {
       timer1.Start();
     }
-  }
+
+        private void trackBar1_Scroll(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+    }
 }

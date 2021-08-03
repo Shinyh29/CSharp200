@@ -68,5 +68,21 @@ namespace A150_TabControl
       lblAlarm.Text = "Alarm : ";
       tabControl1.SelectedTab = tabPage2;
     }
-  }
+
+        private void tabPage3_Click(object sender, EventArgs e)
+        {
+            tabPage3.Text = "Hello World";
+            label3.Text = "Hello World";
+        }
+
+        private void tabPage4_Click(object sender, EventArgs e)
+        {
+            label4.Text = "Hello Label4 Click ";
+        }
+
+        private void label5_Click(object sender, EventArgs e)
+        {
+            label5.Text = "Hello Label5 Click ";
+        }
+    }
 }

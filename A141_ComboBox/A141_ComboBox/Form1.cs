@@ -12,7 +12,9 @@ namespace A141_ComboBox
 
     private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
     {
-      ComboBox cb = sender as ComboBox;
+            //      ComboBox cb = sender as ComboBox;
+            ComboBox cb = sender as ComboBox;
+          //  lblRestaurant.Text = "now" + cb.SelectedItem.ToString;
       lblRestaurant.Text = "이번 주 모임장소는 : " + cb.SelectedItem.ToString();
     }
 
@@ -33,5 +35,10 @@ namespace A141_ComboBox
         comboBox1.Items.Remove(comboBox1.SelectedItem);
       }
     }
-  }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+    }
 }

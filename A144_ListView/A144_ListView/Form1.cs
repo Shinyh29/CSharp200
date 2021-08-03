@@ -16,10 +16,10 @@ namespace A116_ListView
       myListView.GridLines = true;
       myListView.FullRowSelect = true;
 
-      myListView.Columns.Add("제품명", 150);
-      myListView.Columns.Add("단가", 100, HorizontalAlignment.Right);
+      myListView.Columns.Add("제품명", 120);
+      myListView.Columns.Add("단가", 70, HorizontalAlignment.Right);
       myListView.Columns.Add("수량", 70, HorizontalAlignment.Right);
-      myListView.Columns.Add("금액", 100, HorizontalAlignment.Right);
+      myListView.Columns.Add("금액", 70, HorizontalAlignment.Right);
 
       ListViewItem item1 = new ListViewItem("Access", 0);
       ListViewItem item2 = new ListViewItem("Excel", 1);

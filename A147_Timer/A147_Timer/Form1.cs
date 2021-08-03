@@ -26,5 +26,10 @@ namespace A147_Timer
       lblTime.Font = new Font("맑은 고딕", 30, FontStyle.Bold);
       lblTime.Text = DateTime.Now.ToString();
     }
-  }
+
+        private void lblTime_Click(object sender, EventArgs e)
+        {
+
+        }
+    }
 }

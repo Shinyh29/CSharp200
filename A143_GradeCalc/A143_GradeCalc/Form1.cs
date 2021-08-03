@@ -76,5 +76,15 @@ namespace A143_GradeCalc
       else grade = 0;
       return grade;
     }
-  }
+
+        private void txt1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtGrade_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+    }
 }

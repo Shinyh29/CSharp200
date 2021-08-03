@@ -39,5 +39,10 @@ namespace A153_OpenFIleDialog
         }
       }
     }
-  }
+
+        private void openFileDialog2_FileOk(object sender, System.ComponentModel.CancelEventArgs e)
+        {
+
+        }
+    }
 }

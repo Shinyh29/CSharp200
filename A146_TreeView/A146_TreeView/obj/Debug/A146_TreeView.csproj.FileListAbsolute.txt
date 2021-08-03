@@ -1,0 +1,9 @@
+C:\vscshrap200\CSharp200\A146_TreeView\A146_TreeView\bin\Debug\A120_TreeView.exe.config
+C:\vscshrap200\CSharp200\A146_TreeView\A146_TreeView\bin\Debug\A120_TreeView.exe
+C:\vscshrap200\CSharp200\A146_TreeView\A146_TreeView\bin\Debug\A120_TreeView.pdb
+C:\vscshrap200\CSharp200\A146_TreeView\A146_TreeView\obj\Debug\A146_TreeView.Form1.resources
+C:\vscshrap200\CSharp200\A146_TreeView\A146_TreeView\obj\Debug\A120_TreeView.Properties.Resources.resources
+C:\vscshrap200\CSharp200\A146_TreeView\A146_TreeView\obj\Debug\A146_TreeView.csproj.GenerateResource.cache
+C:\vscshrap200\CSharp200\A146_TreeView\A146_TreeView\obj\Debug\A146_TreeView.csproj.CoreCompileInputs.cache
+C:\vscshrap200\CSharp200\A146_TreeView\A146_TreeView\obj\Debug\A120_TreeView.exe
+C:\vscshrap200\CSharp200\A146_TreeView\A146_TreeView\obj\Debug\A120_TreeView.pdb

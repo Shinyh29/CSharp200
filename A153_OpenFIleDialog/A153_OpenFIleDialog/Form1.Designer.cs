@@ -28,42 +28,50 @@
     /// </summary>
     private void InitializeComponent()
     {
-      this.btnFile = new System.Windows.Forms.Button();
-      this.label1 = new System.Windows.Forms.Label();
-      this.SuspendLayout();
-      // 
-      // btnFile
-      // 
-      this.btnFile.Font = new System.Drawing.Font("맑은 고딕", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-      this.btnFile.Location = new System.Drawing.Point(32, 31);
-      this.btnFile.Name = "btnFile";
-      this.btnFile.Size = new System.Drawing.Size(180, 48);
-      this.btnFile.TabIndex = 0;
-      this.btnFile.Text = "텍스트 파일 선택";
-      this.btnFile.UseVisualStyleBackColor = true;
-      this.btnFile.Click += new System.EventHandler(this.btnFile_Click);
-      // 
-      // label1
-      // 
-      this.label1.AutoSize = true;
-      this.label1.Font = new System.Drawing.Font("맑은 고딕", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-      this.label1.Location = new System.Drawing.Point(32, 101);
-      this.label1.Name = "label1";
-      this.label1.Size = new System.Drawing.Size(261, 20);
-      this.label1.TabIndex = 1;
-      this.label1.Text = "선택된 파일은 \"메모장\"에서 열립니다";
-      // 
-      // Form1
-      // 
-      this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 15F);
-      this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-      this.ClientSize = new System.Drawing.Size(481, 150);
-      this.Controls.Add(this.label1);
-      this.Controls.Add(this.btnFile);
-      this.Name = "Form1";
-      this.Text = "OpenFIleDialog ";
-      this.ResumeLayout(false);
-      this.PerformLayout();
+            this.btnFile = new System.Windows.Forms.Button();
+            this.label1 = new System.Windows.Forms.Label();
+            this.openFileDialog2 = new System.Windows.Forms.OpenFileDialog();
+            this.SuspendLayout();
+            // 
+            // btnFile
+            // 
+            this.btnFile.Font = new System.Drawing.Font("맑은 고딕", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.btnFile.Location = new System.Drawing.Point(28, 25);
+            this.btnFile.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.btnFile.Name = "btnFile";
+            this.btnFile.Size = new System.Drawing.Size(158, 38);
+            this.btnFile.TabIndex = 0;
+            this.btnFile.Text = "텍스트 파일 선택";
+            this.btnFile.UseVisualStyleBackColor = true;
+            this.btnFile.Click += new System.EventHandler(this.btnFile_Click);
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("맑은 고딕", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.label1.Location = new System.Drawing.Point(28, 81);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(209, 15);
+            this.label1.TabIndex = 1;
+            this.label1.Text = "선택된 파일은 \"메모장\"에서 열립니다";
+            // 
+            // openFileDialog2
+            // 
+            this.openFileDialog2.FileName = "openFileDialog2";
+            this.openFileDialog2.FileOk += new System.ComponentModel.CancelEventHandler(this.openFileDialog2_FileOk);
+            // 
+            // Form1
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(421, 120);
+            this.Controls.Add(this.label1);
+            this.Controls.Add(this.btnFile);
+            this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.Name = "Form1";
+            this.Text = "OpenFIleDialog ";
+            this.ResumeLayout(false);
+            this.PerformLayout();
 
     }
 
@@ -71,6 +79,7 @@
 
     private System.Windows.Forms.Button btnFile;
     private System.Windows.Forms.Label label1;
-  }
+        private System.Windows.Forms.OpenFileDialog openFileDialog2;
+    }
 }
 

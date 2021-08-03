@@ -1,0 +1,10 @@
+C:\vscshrap200\CSharp200\A149_DateTimePicker\A149_DateTimePicker\bin\Debug\A123_DateTimePicker.exe.config
+C:\vscshrap200\CSharp200\A149_DateTimePicker\A149_DateTimePicker\bin\Debug\A123_DateTimePicker.exe
+C:\vscshrap200\CSharp200\A149_DateTimePicker\A149_DateTimePicker\bin\Debug\A123_DateTimePicker.pdb
+C:\vscshrap200\CSharp200\A149_DateTimePicker\A149_DateTimePicker\obj\Debug\A149_DateTimePicker.csproj.AssemblyReference.cache
+C:\vscshrap200\CSharp200\A149_DateTimePicker\A149_DateTimePicker\obj\Debug\A149_DateTimePicker.Form1.resources
+C:\vscshrap200\CSharp200\A149_DateTimePicker\A149_DateTimePicker\obj\Debug\A123_DateTimePicker.Properties.Resources.resources
+C:\vscshrap200\CSharp200\A149_DateTimePicker\A149_DateTimePicker\obj\Debug\A149_DateTimePicker.csproj.GenerateResource.cache
+C:\vscshrap200\CSharp200\A149_DateTimePicker\A149_DateTimePicker\obj\Debug\A149_DateTimePicker.csproj.CoreCompileInputs.cache
+C:\vscshrap200\CSharp200\A149_DateTimePicker\A149_DateTimePicker\obj\Debug\A123_DateTimePicker.exe
+C:\vscshrap200\CSharp200\A149_DateTimePicker\A149_DateTimePicker\obj\Debug\A123_DateTimePicker.pdb

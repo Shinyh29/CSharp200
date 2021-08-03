@@ -1,0 +1,10 @@
+C:\vscshrap200\CSharp200\A144_ListView\A144_ListView\bin\Debug\A116_ListView.exe.config
+C:\vscshrap200\CSharp200\A144_ListView\A144_ListView\bin\Debug\A116_ListView.exe
+C:\vscshrap200\CSharp200\A144_ListView\A144_ListView\bin\Debug\A116_ListView.pdb
+C:\vscshrap200\CSharp200\A144_ListView\A144_ListView\obj\Debug\A144_ListView.csproj.AssemblyReference.cache
+C:\vscshrap200\CSharp200\A144_ListView\A144_ListView\obj\Debug\A116_ListView.Form1.resources
+C:\vscshrap200\CSharp200\A144_ListView\A144_ListView\obj\Debug\A116_ListView.Properties.Resources.resources
+C:\vscshrap200\CSharp200\A144_ListView\A144_ListView\obj\Debug\A144_ListView.csproj.GenerateResource.cache
+C:\vscshrap200\CSharp200\A144_ListView\A144_ListView\obj\Debug\A144_ListView.csproj.CoreCompileInputs.cache
+C:\vscshrap200\CSharp200\A144_ListView\A144_ListView\obj\Debug\A116_ListView.exe
+C:\vscshrap200\CSharp200\A144_ListView\A144_ListView\obj\Debug\A116_ListView.pdb

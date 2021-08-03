@@ -55,5 +55,25 @@ namespace A154_Menu
     {
       this.Close();
     }
-  }
+
+        private void lblTime_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void memeber1ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void helloToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            lblTime.Text = "Hello Clicked";
+        }
+    }
 }

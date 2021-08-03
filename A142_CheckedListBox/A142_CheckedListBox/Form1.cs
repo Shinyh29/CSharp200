@@ -13,16 +13,16 @@ namespace A142_CheckedListBox
 
     private void Form1_Load(object sender, EventArgs e)
     {
-      cLstBox.Items.Add("오스트리아, 빈");
-      cLstBox.Items.Add("호주, 멜버른");
-      cLstBox.Items.Add("일본, 오사카");
-      cLstBox.Items.Add("캐나다, 캘거리");
-      cLstBox.Items.Add("호주, 시드니");
-      cLstBox.Items.Add("캐나다, 밴쿠버");
-      cLstBox.Items.Add("일본, 도쿄");
-      cLstBox.Items.Add("캐나다, 토론토");
-      cLstBox.Items.Add("덴마크, 코펜하겐");
-      cLstBox.Items.Add("호주, 애들레이드");
+      cLstBox.Items.Add("삼성전자, 005930");
+      cLstBox.Items.Add("카카오, 000000");
+      cLstBox.Items.Add("네이버, 000000");
+      cLstBox.Items.Add("대우건설, 000000");
+      cLstBox.Items.Add("씨젠, 000000");
+      cLstBox.Items.Add("자이에스앤디, 000000");
+      cLstBox.Items.Add("태웅로직스, 000000");
+      cLstBox.Items.Add("HDC현대산업개발, 000000");
+      cLstBox.Items.Add("바다로19호, 000000");
+      cLstBox.Items.Add("신한알파리츠, 000000");
 
       lstBox.SelectionMode = SelectionMode.MultiExtended;
     }
@@ -54,5 +54,10 @@ namespace A142_CheckedListBox
     {
       lstBox.Items.Clear();
     }
-  }
+
+        private void cLstBox_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+    }
 }

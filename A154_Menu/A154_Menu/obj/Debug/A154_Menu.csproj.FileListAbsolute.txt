@@ -1,0 +1,9 @@
+C:\vscshrap200\CSharp200\A154_Menu\A154_Menu\bin\Debug\A128_Menu.exe.config
+C:\vscshrap200\CSharp200\A154_Menu\A154_Menu\bin\Debug\A128_Menu.exe
+C:\vscshrap200\CSharp200\A154_Menu\A154_Menu\bin\Debug\A128_Menu.pdb
+C:\vscshrap200\CSharp200\A154_Menu\A154_Menu\obj\Debug\A154_Menu.Form1.resources
+C:\vscshrap200\CSharp200\A154_Menu\A154_Menu\obj\Debug\A128_Menu.Properties.Resources.resources
+C:\vscshrap200\CSharp200\A154_Menu\A154_Menu\obj\Debug\A154_Menu.csproj.GenerateResource.cache
+C:\vscshrap200\CSharp200\A154_Menu\A154_Menu\obj\Debug\A154_Menu.csproj.CoreCompileInputs.cache
+C:\vscshrap200\CSharp200\A154_Menu\A154_Menu\obj\Debug\A128_Menu.exe
+C:\vscshrap200\CSharp200\A154_Menu\A154_Menu\obj\Debug\A128_Menu.pdb

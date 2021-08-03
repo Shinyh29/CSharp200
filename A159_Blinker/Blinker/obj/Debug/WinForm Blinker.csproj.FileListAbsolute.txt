@@ -1,0 +1,10 @@
+C:\vscshrap200\CSharp200\A159_Blinker\Blinker\bin\Debug\Blinker.exe.config
+C:\vscshrap200\CSharp200\A159_Blinker\Blinker\bin\Debug\Blinker.exe
+C:\vscshrap200\CSharp200\A159_Blinker\Blinker\bin\Debug\Blinker.pdb
+C:\vscshrap200\CSharp200\A159_Blinker\Blinker\obj\Debug\WinForm Blinker.csproj.AssemblyReference.cache
+C:\vscshrap200\CSharp200\A159_Blinker\Blinker\obj\Debug\Blinker.Form1.resources
+C:\vscshrap200\CSharp200\A159_Blinker\Blinker\obj\Debug\Blinker.Properties.Resources.resources
+C:\vscshrap200\CSharp200\A159_Blinker\Blinker\obj\Debug\WinForm Blinker.csproj.GenerateResource.cache
+C:\vscshrap200\CSharp200\A159_Blinker\Blinker\obj\Debug\WinForm Blinker.csproj.CoreCompileInputs.cache
+C:\vscshrap200\CSharp200\A159_Blinker\Blinker\obj\Debug\Blinker.exe
+C:\vscshrap200\CSharp200\A159_Blinker\Blinker\obj\Debug\Blinker.pdb

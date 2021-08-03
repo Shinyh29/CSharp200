@@ -27,5 +27,10 @@ namespace A158_WPF_BMICalc
       // Form에서는 Label.Text 인데, WPF에서는 label.Content 
       lblResult.Content = string.Format("당신의 BMI는 {0:F2} 입니다", bmi);
     }
-  }
+
+        private void txtHeight_TextChanged(object sender, System.Windows.Controls.TextChangedEventArgs e)
+        {
+
+        }
+    }
 }

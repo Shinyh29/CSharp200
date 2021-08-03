@@ -1,0 +1,10 @@
+C:\vscshrap200\CSharp200\A170_ChartControl\A170_ChartControl\bin\Debug\A181_ChartControl.exe.config
+C:\vscshrap200\CSharp200\A170_ChartControl\A170_ChartControl\bin\Debug\A181_ChartControl.exe
+C:\vscshrap200\CSharp200\A170_ChartControl\A170_ChartControl\bin\Debug\A181_ChartControl.pdb
+C:\vscshrap200\CSharp200\A170_ChartControl\A170_ChartControl\obj\Debug\A170_ChartControl.csproj.AssemblyReference.cache
+C:\vscshrap200\CSharp200\A170_ChartControl\A170_ChartControl\obj\Debug\A170_ChartControl.Form1.resources
+C:\vscshrap200\CSharp200\A170_ChartControl\A170_ChartControl\obj\Debug\A181_ChartControl.Properties.Resources.resources
+C:\vscshrap200\CSharp200\A170_ChartControl\A170_ChartControl\obj\Debug\A170_ChartControl.csproj.GenerateResource.cache
+C:\vscshrap200\CSharp200\A170_ChartControl\A170_ChartControl\obj\Debug\A170_ChartControl.csproj.CoreCompileInputs.cache
+C:\vscshrap200\CSharp200\A170_ChartControl\A170_ChartControl\obj\Debug\A181_ChartControl.exe
+C:\vscshrap200\CSharp200\A170_ChartControl\A170_ChartControl\obj\Debug\A181_ChartControl.pdb

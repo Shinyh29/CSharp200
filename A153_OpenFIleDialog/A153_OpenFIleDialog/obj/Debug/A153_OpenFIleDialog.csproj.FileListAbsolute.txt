@@ -1,0 +1,9 @@
+C:\vscshrap200\CSharp200\A153_OpenFIleDialog\A153_OpenFIleDialog\bin\Debug\A127_OpenFIleDialog.exe.config
+C:\vscshrap200\CSharp200\A153_OpenFIleDialog\A153_OpenFIleDialog\bin\Debug\A127_OpenFIleDialog.exe
+C:\vscshrap200\CSharp200\A153_OpenFIleDialog\A153_OpenFIleDialog\bin\Debug\A127_OpenFIleDialog.pdb
+C:\vscshrap200\CSharp200\A153_OpenFIleDialog\A153_OpenFIleDialog\obj\Debug\A153_OpenFIleDialog.Form1.resources
+C:\vscshrap200\CSharp200\A153_OpenFIleDialog\A153_OpenFIleDialog\obj\Debug\A127_OpenFIleDialog.Properties.Resources.resources
+C:\vscshrap200\CSharp200\A153_OpenFIleDialog\A153_OpenFIleDialog\obj\Debug\A153_OpenFIleDialog.csproj.GenerateResource.cache
+C:\vscshrap200\CSharp200\A153_OpenFIleDialog\A153_OpenFIleDialog\obj\Debug\A153_OpenFIleDialog.csproj.CoreCompileInputs.cache
+C:\vscshrap200\CSharp200\A153_OpenFIleDialog\A153_OpenFIleDialog\obj\Debug\A127_OpenFIleDialog.exe
+C:\vscshrap200\CSharp200\A153_OpenFIleDialog\A153_OpenFIleDialog\obj\Debug\A127_OpenFIleDialog.pdb

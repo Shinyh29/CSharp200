@@ -1,0 +1,10 @@
+C:\vscshrap200\CSharp200\A147_Timer\A147_Timer\bin\Debug\A121_Timer.exe.config
+C:\vscshrap200\CSharp200\A147_Timer\A147_Timer\bin\Debug\A121_Timer.exe
+C:\vscshrap200\CSharp200\A147_Timer\A147_Timer\bin\Debug\A121_Timer.pdb
+C:\vscshrap200\CSharp200\A147_Timer\A147_Timer\obj\Debug\A147_Timer.csproj.AssemblyReference.cache
+C:\vscshrap200\CSharp200\A147_Timer\A147_Timer\obj\Debug\A147_Timer.Form1.resources
+C:\vscshrap200\CSharp200\A147_Timer\A147_Timer\obj\Debug\A121_Timer.Properties.Resources.resources
+C:\vscshrap200\CSharp200\A147_Timer\A147_Timer\obj\Debug\A147_Timer.csproj.GenerateResource.cache
+C:\vscshrap200\CSharp200\A147_Timer\A147_Timer\obj\Debug\A147_Timer.csproj.CoreCompileInputs.cache
+C:\vscshrap200\CSharp200\A147_Timer\A147_Timer\obj\Debug\A121_Timer.exe
+C:\vscshrap200\CSharp200\A147_Timer\A147_Timer\obj\Debug\A121_Timer.pdb

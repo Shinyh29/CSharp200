@@ -1,0 +1,15 @@
+C:\vscshrap200\CSharp200\A158_WPF BMICalc\A158_WPF BMICalc\bin\Debug\A157_WPF BMICalc.exe.config
+C:\vscshrap200\CSharp200\A158_WPF BMICalc\A158_WPF BMICalc\bin\Debug\A157_WPF BMICalc.exe
+C:\vscshrap200\CSharp200\A158_WPF BMICalc\A158_WPF BMICalc\bin\Debug\A157_WPF BMICalc.pdb
+C:\vscshrap200\CSharp200\A158_WPF BMICalc\A158_WPF BMICalc\obj\Debug\A158_WPF BMICalc.csproj.AssemblyReference.cache
+C:\vscshrap200\CSharp200\A158_WPF BMICalc\A158_WPF BMICalc\obj\Debug\MainWindow.g.cs
+C:\vscshrap200\CSharp200\A158_WPF BMICalc\A158_WPF BMICalc\obj\Debug\App.g.cs
+C:\vscshrap200\CSharp200\A158_WPF BMICalc\A158_WPF BMICalc\obj\Debug\A157_WPF BMICalc_MarkupCompile.cache
+C:\vscshrap200\CSharp200\A158_WPF BMICalc\A158_WPF BMICalc\obj\Debug\A157_WPF BMICalc_MarkupCompile.lref
+C:\vscshrap200\CSharp200\A158_WPF BMICalc\A158_WPF BMICalc\obj\Debug\MainWindow.baml
+C:\vscshrap200\CSharp200\A158_WPF BMICalc\A158_WPF BMICalc\obj\Debug\A157_WPF BMICalc.g.resources
+C:\vscshrap200\CSharp200\A158_WPF BMICalc\A158_WPF BMICalc\obj\Debug\A157_WPF_BMICalc.Properties.Resources.resources
+C:\vscshrap200\CSharp200\A158_WPF BMICalc\A158_WPF BMICalc\obj\Debug\A158_WPF BMICalc.csproj.GenerateResource.cache
+C:\vscshrap200\CSharp200\A158_WPF BMICalc\A158_WPF BMICalc\obj\Debug\A158_WPF BMICalc.csproj.CoreCompileInputs.cache
+C:\vscshrap200\CSharp200\A158_WPF BMICalc\A158_WPF BMICalc\obj\Debug\A157_WPF BMICalc.exe
+C:\vscshrap200\CSharp200\A158_WPF BMICalc\A158_WPF BMICalc\obj\Debug\A157_WPF BMICalc.pdb

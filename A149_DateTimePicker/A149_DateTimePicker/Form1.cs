@@ -15,7 +15,18 @@ namespace A149_DateTimePicker
       DateTime today = DateTime.Today;
       DateTime birthDay = dateTimePicker1.Value;
 
-      txtDates.Text = today.Subtract(birthDay).TotalDays.ToString("0");
+      txtDates.Text = today.Subtract(birthDay).TotalDays.ToString("0") +"Offset";
+      
     }
-  }
+
+        private void txtDates_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+    }
 }

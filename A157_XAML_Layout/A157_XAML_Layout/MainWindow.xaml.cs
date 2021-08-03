@@ -24,5 +24,9 @@ namespace A157_XAML_Layout
     {
       InitializeComponent();
     }
-  }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+        }
+    }
 }

@@ -13,25 +13,30 @@ namespace A140_ListBox
 
     private void Form1_Load(object sender, EventArgs e)
     {
-      listBox2.Items.Add("오스트리아, 빈");
-      listBox2.Items.Add("호주, 멜버른");
-      listBox2.Items.Add("일본, 오사카");
-      listBox2.Items.Add("캐나다, 캘거리");
-      listBox2.Items.Add("호주, 시드니");
-      listBox2.Items.Add("캐나다, 밴쿠버");
-      listBox2.Items.Add("일본, 도쿄");
-      listBox2.Items.Add("캐나다, 토론토");
-      listBox2.Items.Add("덴마크, 코펜하겐");
-      listBox2.Items.Add("호주, 애들레이드");
+            listBox1.Items.Add("삼성전자, IT");
+            listBox1.Items.Add("LG화학, 화학");
+            listBox1.Items.Add("카카오, 소프트웨어");
+            listBox1.Items.Add("네이버, 소프트웨어");
+            listBox1.Items.Add("신한알파리츠, 리츠");
 
-      List<String> lstGDP = new List<String> { "미국", "러시아", "중국", "영국",
-        "독일", "프랑스", "일본", "이스라엘", "사우디아라비아", "UAE"};
-      listBox3.DataSource = lstGDP;
+            listBox2.Items.Add("삼성전자, IT");
+            listBox2.Items.Add("LG화학, 화학");
+            listBox2.Items.Add("카카오, 소프트웨어");
+            listBox2.Items.Add("네이버, 소프트웨어");
+            listBox2.Items.Add("신한알파리츠, 리츠");
 
-      //listBox1.SelectedIndex = 0;
-      //listBox2.SelectedIndex = 0;
-      //listBox3.SelectedIndex = 0;
-    }
+
+            //List<String> lstGDP = new List<String> { "미국", "러시아", "중국", "영국",
+            //  "독일", "프랑스", "일본", "이스라엘", "사우디아라비아", "UAE"};
+            // listBox3.DataSource = lstGDP;
+
+            List<string> lstSTOCK = new List<String> { "삼성전자", "LG화학", "네이버", "카카오" };
+      listBox3.DataSource = lstSTOCK;
+
+            //listBox1.SelectedIndex = 0;
+            //listBox2.SelectedIndex = 0;
+            //listBox3.SelectedIndex = 0;
+        }
 
     private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
     {
@@ -53,5 +58,10 @@ namespace A140_ListBox
       txtSIndex3.Text = lst.SelectedIndex.ToString();
       txtSItem3.Text = lst.SelectedItem.ToString();
     }
-  }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+    }
 }

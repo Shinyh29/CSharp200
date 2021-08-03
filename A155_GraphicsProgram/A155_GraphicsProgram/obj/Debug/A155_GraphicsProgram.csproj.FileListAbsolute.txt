@@ -1,0 +1,9 @@
+C:\vscshrap200\CSharp200\A155_GraphicsProgram\A155_GraphicsProgram\bin\Debug\A129_GraphicsProgram.exe.config
+C:\vscshrap200\CSharp200\A155_GraphicsProgram\A155_GraphicsProgram\bin\Debug\A129_GraphicsProgram.exe
+C:\vscshrap200\CSharp200\A155_GraphicsProgram\A155_GraphicsProgram\bin\Debug\A129_GraphicsProgram.pdb
+C:\vscshrap200\CSharp200\A155_GraphicsProgram\A155_GraphicsProgram\obj\Debug\A155_GraphicsProgram.Form1.resources
+C:\vscshrap200\CSharp200\A155_GraphicsProgram\A155_GraphicsProgram\obj\Debug\A129_GraphicsProgram.Properties.Resources.resources
+C:\vscshrap200\CSharp200\A155_GraphicsProgram\A155_GraphicsProgram\obj\Debug\A155_GraphicsProgram.csproj.GenerateResource.cache
+C:\vscshrap200\CSharp200\A155_GraphicsProgram\A155_GraphicsProgram\obj\Debug\A155_GraphicsProgram.csproj.CoreCompileInputs.cache
+C:\vscshrap200\CSharp200\A155_GraphicsProgram\A155_GraphicsProgram\obj\Debug\A129_GraphicsProgram.exe
+C:\vscshrap200\CSharp200\A155_GraphicsProgram\A155_GraphicsProgram\obj\Debug\A129_GraphicsProgram.pdb
